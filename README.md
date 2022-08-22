@@ -8,7 +8,7 @@ This simulates N particles interacting gravitationally. It is optimized using Fa
 
 https://user-images.githubusercontent.com/50559300/185988881-e20c7a06-aff7-4891-aa32-2a691aaea558.mp4
 
-The video sometimes doesn't play properly but it should work if you manually set it at about 11 seconds. This grid starts off with a million randomly placed particles, with no particular distribution (brightness here indicates mass density at that pixel). The grid loops around at the borders, to simulate an infinite (or at least extremely large) universe. As the bodies begin to interact gravitationally, clusters with arms are formed, much like spiral galaxies such as the one we live in. As the galaxies themselves interact and merge, they form elliptical galaxies, just like what the Milky Way will undergo with the Andromeda galaxy in a few million years.
+The video sometimes doesn't play properly but it should work if you manually set it at about 11 seconds, or you can also see it here: https://www.youtube.com/watch?v=Qj6eYTVf7Ww . This grid starts off with a million randomly placed particles, with no particular distribution (brightness here indicates mass density at that pixel). The grid loops around at the borders, to simulate an infinite (or at least extremely large) universe. As the bodies begin to interact gravitationally, clusters with arms are formed, much like spiral galaxies such as the one we live in. As the galaxies themselves interact and merge, they form elliptical galaxies, just like what the Milky Way will undergo with the Andromeda galaxy in a few million years.
 
 ## Housing prices
 
