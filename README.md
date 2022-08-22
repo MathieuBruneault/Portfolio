@@ -10,6 +10,8 @@ This simulates N particles interacting gravitationally. It is optimized using Fa
 
 https://user-images.githubusercontent.com/50559300/185983691-b6a59744-7016-4e8d-bdd1-f2bfdd2de307.mp4
 
+<video src='https://youtu.be/Qj6eYTVf7Ww' width=180/>
+
 
 
 ## Housing prices
