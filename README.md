@@ -6,7 +6,7 @@ This is a small sample of projects I've worked on over the years, be it on my ow
 
 This simulates N particles interacting gravitationally. It is optimized using Fast Fourier Transforms to make what appears to be a O(n^2) problem into a O(nlogn) one, allowing this simulation of up to millions of particles. Of particular interest is the 2_particles.mp4 file, which shows two particles in orbit, and the file periodic.mp4, which shows galaxy formations with a million bodies.
 
-<video src='https://youtu.be/Qj6eYTVf7Ww' width=180/>
+<video src="https://www.youtube.com/watch?v=Qj6eYTVf7Ww"></video>
 
 ## Housing prices
 
